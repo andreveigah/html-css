@@ -1,2 +1,2 @@
 # html-css
- Meus projetos!
+ Meus projetos em HTML e CSS!
