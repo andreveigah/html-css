@@ -24,6 +24,16 @@ li{
     margin: 20px;
 }
 
+hi{
+    font-weight: 200;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
 a{
     color: white;
 }
@@ -42,16 +52,6 @@ a:hover{
 #inscreva-se-btn:hover{
     background-color: rgba(43, 142, 255, 0.488);
     color: white;
-}
-
-h1{
-    font-weight: 200;
-}
-
-main{
-    display: flex;
-    flex-direction: row;
-    margin-top: 50px;
 }
 
 h2{
@@ -83,8 +83,8 @@ form{
 form [type="submit"]{
     height: 50px;
     width: 50%;
-    background-color: rgba(43, 142, 255, 0.488);
-    color: white;
+    background-color:rgba(43, 142, 255, 0.488);
+    color:white;
     font-weight: bold;
 }
 form [type="submit"]:hover{
