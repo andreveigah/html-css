@@ -1,4 +1,4 @@
-@media screen and (max-widt: 760px){
+@media screen and (max-width: 760px){
 
     header{
         flex-direction: column;
@@ -23,10 +23,9 @@
 
     img{
         display: none;
-}
+    }
 
     ul{
         text-align: center;
     }
-
 }
