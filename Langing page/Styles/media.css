@@ -1,5 +1,14 @@
-@media screen and (max-width: 600px){
+@media screen and (max-width: 768px){
+    .produto-container{
+        width: 100%;
+        flex-direction: column;
+    }
 
+    .produto-container{
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+    }
     header{
         flex-direction: column;
     }
